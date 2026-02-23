@@ -1,0 +1,32 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Virtual environments
+env/
+.env/
+.venv/
+venv/
+
+# OS / editor
+.DS_Store
+*.swp
+*.swo
+*.tmp
+
+# Outputs
+output.png
+*.png
+*.jpg
+*.jpeg
+*.gif
+*.pdf
+
+# Misc
+*.log
+.vscode/settings.json
+*.o
+*.so
+*.egg-info
